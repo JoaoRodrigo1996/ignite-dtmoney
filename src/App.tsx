@@ -7,8 +7,9 @@ export function App() {
     <>
       <Header />
       <Dashboard />
-
       <GlobalStyle />
     </>
   );
 }
+// JSON SERVER -> CONSUMIR DADOS SEM TER UMA API REST PRONTA.
+// MIRAGE JS -> API FAKE DENTRO DO FRONT END.
